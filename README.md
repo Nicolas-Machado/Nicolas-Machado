@@ -18,9 +18,9 @@
 </div>
 
 <div>
-  <a href="https://github.com/Nicolas-Catarina%22%3E
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brendowcata&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendowcata&layout=compact&langs_count=7&theme=dark%22/%3E
+  <a href="https://github.com/Nicolas-Machado%22%3E
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Machado&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Machado&layout=compact&langs_count=7&theme=dark%22/%3E
 </div>
 
 <h2>What am i studying 🤓</h2>
@@ -32,7 +32,7 @@
 ##
 <h2>How to contact me 👽</h2>
   <div>
-    <a href="https://www.linkedin.com/in/brendowcata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brendowcata1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/brendowcatarina/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/nicolas-alexandre-machado-631887182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nicolassetembro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/equicel.nicolas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
